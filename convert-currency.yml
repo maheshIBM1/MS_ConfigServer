@@ -1,7 +1,2 @@
----
-
-wordConfig:
-
-  preamble: This is the re-skulling Microservices training
-
-  luckyWord: In Ground floor BLR. 
+wordConfig.preamble=This is the re-skulling Microservices training
+wordConfig.luckyWord=In Ground floor BLR. 
